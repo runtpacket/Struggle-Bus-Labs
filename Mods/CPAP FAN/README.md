@@ -1,4 +1,5 @@
 Remote Colling using a Resmed CPAP Fan 
+![A test image](RESMED_Fan.jpg)
 
 https://github.com/runtpacket/Struggle-Bus-Labs/blob/2c862576b6ee6aff143c2e27e244c77e0f8e2bb0/Mods/CPAP%20FAN/RioRand%20300W%205-50V%20PWM%20DC%20Brushless%20Electric%20Motor%20Speed%20Controller.jpg
 
