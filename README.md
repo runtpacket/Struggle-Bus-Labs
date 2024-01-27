@@ -11,3 +11,4 @@ Voron 2.4r2 350mm
 
 [BTT LCD12964](https://www.printables.com/model/351939-voron-24-lcd-display-mod_)
 
+[skirt inserts]https://www.printables.com/model/648945-voron-24-skirt-insert
