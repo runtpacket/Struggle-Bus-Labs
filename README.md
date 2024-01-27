@@ -35,6 +35,8 @@
 
 [CPAP for Voron 2.4 and Stealthburner](https://github.com/ogland/Printer-mods/tree/main/V2/CPAP)
 
+[Resmed CPAP Fan mod by OverLord6920](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/CPAP%20FAN)
+
 [Rear Umbilical Passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/f64cd56fe2baac4348ac56e3d0e70f4577013d7e/umbilical_passthrough)
 
 [Ellis bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
