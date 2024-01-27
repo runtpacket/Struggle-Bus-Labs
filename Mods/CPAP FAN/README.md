@@ -1,5 +1,21 @@
-Remote Colling using a Resmed CPAP Fan 
+# Remote Colling using a Resmed CPAP Fan 
 
+## Requires: 
+[RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
+![RESMED CPAP Fan](RESMED_Fan.jpg)
+
+[Fan speed controoler on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
+![RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](FSC.jpg)
+
+# Optional
+[BME280 Temp/Pressure/Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+![BME280 Temp/Pressure/Humidity Sensor](BME280.jpg)
+
+## Klipper configuration. Add this to your printer.cfg
+```
 [fan]
 pin: PB6
 hardware_pwm: True
@@ -10,12 +26,9 @@ off_below: 0.06 # minimum speed where the fan starts spinning - on octopus pro t
 cycle_time: .00004 # = 2khz - CPAP fan driver recommended range is 2-50khz
 #tachometer_pin:^PG13
 #tachometer_ppr: 2
+```
 
-![RESMED CPAP Fan](RESMED_Fan.jpg)
 
-![RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](FSC.jpg)
 
-[RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
-[Fan speed controoler on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
