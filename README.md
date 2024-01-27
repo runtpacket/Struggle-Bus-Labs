@@ -1,7 +1,7 @@
 # Struggle Bus Labs
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
-[Voron R2 Updates]()
+[Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
 [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
@@ -34,6 +34,8 @@
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
 
 [CPAP for Voron 2.4 and Stealthburner](https://github.com/ogland/Printer-mods/tree/main/V2/CPAP)
+
+[Resmed CPAP Fan mod by OverLord6920](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/CPAP%20FAN)
 
 [Rear Umbilical Passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/f64cd56fe2baac4348ac56e3d0e70f4577013d7e/umbilical_passthrough)
 
