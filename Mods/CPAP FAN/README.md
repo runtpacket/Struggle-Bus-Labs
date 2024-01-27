@@ -1,4 +1,6 @@
-Remote Colling using a Resmed CPAP Fan 
+## Remote Colling using a Resmed CPAP Fan 
+
+#Klipper configuration. Add this to your printer.cfg
 ```
 [fan]
 pin: PB6
