@@ -1,5 +1,5 @@
 Remote Colling using a Resmed CPAP Fan 
-
+```
 [fan]
 pin: PB6
 hardware_pwm: True
@@ -10,6 +10,7 @@ off_below: 0.06 # minimum speed where the fan starts spinning - on octopus pro t
 cycle_time: .00004 # = 2khz - CPAP fan driver recommended range is 2-50khz
 #tachometer_pin:^PG13
 #tachometer_ppr: 2
+```
 
 ![RESMED CPAP Fan](RESMED_Fan.jpg)
 
