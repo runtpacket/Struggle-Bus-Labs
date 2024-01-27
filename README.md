@@ -11,23 +11,23 @@ Voron 2.4r2 350mm
 
 [skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
-[Jontek2 better Print Start](https://github.com/jontek2/A-better-print_start-macro|
+[Jontek2 better Print Start](https://github.com/jontek2/A-better-print_start-macro)
 
-[Kamps]
+[Kamps]()
 
-[Nevermore v5 Duo]
+[Nevermore v5 Duo]()
 
-[Chaotic Labs Tap v1]
+[Chaotic Labs Tap v1]()
 
-[BIGTREETECH U2C V2.1]
+[BIGTREETECH U2C V2.1]()
 
-[PG7 CW2]
+[PG7 CW2]()
 
-[Endstop relocation]
+[Endstop relocation]()
 
-[Z Chain relocation]
+[Z Chain relocation]()
 
-[ComingSoon]
+[ComingSoon]()
 
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
 
