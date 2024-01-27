@@ -1,5 +1,7 @@
 # Struggle Bus Labs
-Voron 2.4r2 350mm
+[Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
+
+[Voron R2 Updates()]
 
 [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
