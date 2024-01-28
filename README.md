@@ -42,6 +42,8 @@ Color's frame black. Primary printed parts color is black with KVP Galaxy Blue a
 
 [Kamps](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
+[LED effects](https://github.com/julianschill/klipper-led_effect)
+
 # Fans
 [Nevermore v5 Duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo)
 
@@ -94,6 +96,11 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 [Rear Umbilical Passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/f64cd56fe2baac4348ac56e3d0e70f4577013d7e/umbilical_passthrough)
 
 [Skirt Buttons](https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
+
+# Changes I am considering 
+
+[The Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
+
 
 [Replacing SB2040 V1 with SB2040 V2](https://github.com/Mellow-3D/Fly-SB2040/tree/main/V2/Hardware)
 
