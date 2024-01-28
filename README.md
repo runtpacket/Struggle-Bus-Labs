@@ -20,6 +20,10 @@ Color's frame black. Primary printed parts color is black with KVP Galaxy Blue a
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
+# Webcam
+
+[Wansview 1080P web cam](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/WebCAM/wansview-1080p-camera-mount-model_files)
+
 # Lighting
 
 [2x270mm Disco on stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
