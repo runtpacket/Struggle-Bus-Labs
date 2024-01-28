@@ -23,6 +23,8 @@ Come along and ride on a fantastic voyage
 
 [2x270mm Disco on stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
 
+[Disco Mount and Baffles](https://www.printables.com/model/315479-daylight-on-a-stick-mount)
+
 [Rainbow Barf](https://wiki.kb-3d.com/en/home/linneo/voron/harnesses/RainbowBarfLEDHarness)
 
 # Filament Runout Sensor
