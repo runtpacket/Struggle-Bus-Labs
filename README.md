@@ -20,12 +20,6 @@ Then I upgrades did R2 updates
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
-Added a following the excellant [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
-
-[Mellow SB2040](https://github.com/Mellow-3D/Fly-SB2040)
-
-[Esotericals canbus guide](https://github.com/Esoterical/voron_canbus)
-
 [BTT LCD12964](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
 [skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
@@ -36,11 +30,28 @@ Added a following the excellant [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.k
 
 [Kamps](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
-[Nevermore v5 Duo]()
+# Fans
+[Nevermore v5 Duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo)
 
-[Chaotic Labs Tap v1]()
+[Resmed CPAP Fan mod by OverLord6920](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/CPAP%20FAN)
+
+[Ellis bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
+
+# Probe
+
+[Chaotic Labs Tap v1](https://github.com/Chaoticlab/CNC-Tap-for-Voron)
+
+# CanBUS
+
+[Esotericals canbus guide](https://github.com/Esoterical/voron_canbus)
 
 [BIGTREETECH U2C V2.1]()
+
+[Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
+
+[Mellow SB2040](https://github.com/Mellow-3D/Fly-SB2040)
+
+# Umbilical
 
 [PG7 CW2]()
 
@@ -48,15 +59,15 @@ Added a following the excellant [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.k
 
 [Z Chain relocation]()
 
-[ComingSoon]()
+# ComingSoon
 
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
 
 [CPAP for Voron 2.4 and Stealthburner](https://github.com/ogland/Printer-mods/tree/main/V2/CPAP)
 
-[Resmed CPAP Fan mod by OverLord6920](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/CPAP%20FAN)
-
 [Rear Umbilical Passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/f64cd56fe2baac4348ac56e3d0e70f4577013d7e/umbilical_passthrough)
 
-[Ellis bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
+[Skirt Buttons](https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
+
+
 
