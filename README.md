@@ -59,7 +59,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [PG7 CW2](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount)
 
-[Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation))
+[Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 
 [Z Chain relocation](https://www.printables.com/model/279739-voron-can-bus-z-chain-move)
 
