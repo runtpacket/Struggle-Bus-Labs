@@ -57,7 +57,7 @@ Then I upgrades did R2 updates
 
 [Endstop relocation]()
 
-[Z Chain relocation]()
+[Z Chain relocation](https://www.printables.com/model/279739-voron-can-bus-z-chain-move)
 
 # ComingSoon
 
