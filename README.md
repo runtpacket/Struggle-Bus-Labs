@@ -8,11 +8,8 @@ Come along and ride on a fantastic voyage
 Slide, slide, slippity-slide
 I'm hittin' switches on the block in a '65
 Come along and ride on a fantastic voyage
-Slide, slide, hoo ride
-Ain't no valley low enough or mountain high
 
-
-# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Curretnly upgrading to West3D Beserker rails on x and y. CPAP Fan with a 2.,4 Tophat and going rear umbilical. 
+# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Currently I am upgrading to West3D Beserker rails on x and y. using my old rails as backers, CPAP Fan with a 2.4 Tophat and going rear umbilical. 
 
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
@@ -75,9 +72,8 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Replacing SB2040 V1 with SB2040 V2](https://github.com/Mellow-3D/Fly-SB2040/tree/main/V2/Hardware)
 
-[Exhaust to Basement Window]{}
+[Exhaust to Basement Window]
 
-
-
+[Reusing old mng9 / mgn12 rails as backers]
 
 
