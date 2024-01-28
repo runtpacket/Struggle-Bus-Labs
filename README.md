@@ -83,7 +83,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 # Skirt 
 
-[skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
+[Hexagon skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
 # Coming Soon
 
