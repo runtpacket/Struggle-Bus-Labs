@@ -97,15 +97,16 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Skirt Buttons](https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
 
-# Changes I am considering 
-
-[The Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
-
-
 [Replacing SB2040 V1 with SB2040 V2](https://github.com/Mellow-3D/Fly-SB2040/tree/main/V2/Hardware)
 
 [Exhaust to Basement Window](TBD)
 
 [Reusing old mng9 / mgn12 rails as backers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
+
+# Changes I am considering 
+
+[The Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
+
+[Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels/blob/main/Images/distant_view.png)
 
 
