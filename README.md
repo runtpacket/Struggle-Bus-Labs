@@ -24,7 +24,7 @@ Ain't no valley low enough or mountain high
 
 # Filament Runout Sensor
 
-[BTT Smart Filament Sensor]([https://github.com/jontek2/A-better-print_start-macro](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0))
+[BTT Smart Filament Sensor](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0)
 
 # Klipper add ons
 
