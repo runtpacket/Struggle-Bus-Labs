@@ -55,6 +55,8 @@ Ain't no valley low enough or mountain high
 
 # Umbilical
 
+I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable inside 1/8" Sleeving. So far I find the PTFE to be perfect. 
+
 [PG7 CW2](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount)
 
 [Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation))
