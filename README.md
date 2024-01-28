@@ -15,9 +15,8 @@ Come along and ride on a fantastic voyage
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
+# Printer Display 
 [BTT LCD12964](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
-
-[skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
 # Lighting
 
@@ -75,6 +74,10 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 # Panel Clips
 
 [Magnetic Panel Clip for Voron 2.4 by FunFunboy](https://www.printables.com/model/84734-magnetic-panel-clip-for-voron-24)
+
+# Skirt 
+
+[skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
 # Coming Soon
 
