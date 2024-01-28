@@ -15,6 +15,8 @@ Come along and ride on a fantastic voyage
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
+Color's frame black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyal flat cap (blue and black) as rail fillers/cable covers.
+
 # Printer Display 
 [BTT LCD12964](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
