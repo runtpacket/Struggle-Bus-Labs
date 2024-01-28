@@ -12,17 +12,19 @@ Slide, slide, hoo ride
 Ain't no valley low enough or mountain high
 
 
-# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit.
+# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Curretnly upgrading to West3D Beserker rails on x and y. CPAP Fan with a 2.,4 Tophat and going rear umbilical. 
 
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
-
-Then I upgrades did R2 updates
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
 [BTT LCD12964](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
 [skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
+
+# Filament Runout Sensor
+
+[BTT Smart Filament Sensor]([https://github.com/jontek2/A-better-print_start-macro](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0))
 
 # Klipper add ons
 
