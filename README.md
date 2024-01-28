@@ -30,9 +30,11 @@ Added a following the excellant [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.k
 
 [skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
+# Klipper add ons
+
 [Jontek2 better Print Start](https://github.com/jontek2/A-better-print_start-macro)
 
-[Kamps]()
+[Kamps](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 [Nevermore v5 Duo]()
 
