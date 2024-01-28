@@ -66,6 +66,9 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Z Chain relocation](https://www.printables.com/model/279739-voron-can-bus-z-chain-move)
 
+# Flex Plate Holder
+
+{Voron V2.4 Flex Plate Holder by KeiranSolaris}(https://www.printables.com/model/163992-voron-v24-flex-plate-holder)
 # ComingSoon
 
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
