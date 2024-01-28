@@ -113,6 +113,8 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [jst hub for the filter](https://www.printables.com/model/512527-jst-hub-for-the-filter)
 
+[Wago and jst bed mount 2020](https://www.printables.com/model/512516-wago-and-jst-bed-mount-for-2020)
+
 ## Tools I like
 [GT2 Belt Tensioner](https://github.com/Diyshift/3D-Printer/blob/main/GT2%20Belt%20Tension%20Meter/Manual/GT2_Tensiometer_Manual.pdf)
 
