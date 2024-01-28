@@ -19,6 +19,12 @@ Come along and ride on a fantastic voyage
 
 [skirt inserts](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
+# Lighting
+
+[2x270mm Disco on stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
+
+[Rainbow Barf](https://wiki.kb-3d.com/en/home/linneo/voron/harnesses/RainbowBarfLEDHarness)
+
 # Filament Runout Sensor
 
 [BTT Smart Filament Sensor](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0)
