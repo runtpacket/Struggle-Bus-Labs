@@ -71,5 +71,9 @@ Ain't no valley low enough or mountain high
 
 [Skirt Buttons](https://www.fysetc.com/products/fysetc-hot-key-board-voron-skirt-button-pcb-voron-skirt-klipper-pre-installed-pcb-board-with-neopixel-led-for-voron-v2-4-trident-switchwire-3d-printers)
 
+[Replacing SB2040 V1 with SB2040 V2](https://github.com/Mellow-3D/Fly-SB2040/tree/main/V2/Hardware)
+
+
+
 
 
