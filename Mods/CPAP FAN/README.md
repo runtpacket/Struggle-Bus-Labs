@@ -1,18 +1,19 @@
-# Remote Colling using a Resmed CPAP Fan 
+# Remote Cooling using a Resmed CPAP Fan 
+
+This will need some tape to seal air leaks. i used 1mm foam and the base needs glued to the pump bottom.
 
 ## Requires: 
-[RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
-
 ![RESMED CPAP Fan](RESMED_Fan.jpg)
 
-[Fan speed controoler on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
+[Fan speed controller on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
 ![RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](FSC.jpg)
 
 # Optional
-[BME280 Temp/Pressure/Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-![BME280 Temp/Pressure/Humidity Sensor](BME280.jpg)
+[BME280 Temp Pressure Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+![BME280 Temp Pressure Humidity Sensor](BME280.jpg)
 
 ## Klipper configuration. Add this to your printer.cfg
 ```
