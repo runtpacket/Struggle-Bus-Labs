@@ -5,7 +5,7 @@
 
 ![RESMED CPAP Fan](RESMED_Fan.jpg)
 
-[Fan speed controoler on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
+[Fan speed controller on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
 ![RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](FSC.jpg)
 
