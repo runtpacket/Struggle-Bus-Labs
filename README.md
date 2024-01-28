@@ -51,7 +51,7 @@ Ain't no valley low enough or mountain high
 
 [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
-[Mellow SB2040](https://github.com/Mellow-3D/Fly-SB2040)
+[Mellow SB2040v1](https://github.com/Mellow-3D/Fly-SB2040)
 
 # Umbilical
 
