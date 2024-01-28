@@ -1,4 +1,4 @@
-# Remote Colling using a Resmed CPAP Fan 
+# Remote Cooling using a Resmed CPAP Fan 
 
 This will need some tape to seal air leaks. i used 1mm foam and the base needs glued to the pump bottom.
 
