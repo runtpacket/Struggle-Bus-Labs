@@ -1,9 +1,14 @@
-# Struggle Bus Labs
+## Struggle Bus Labs
+
+# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit.
+
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
+
+Then I upgrades did R2 updates
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
-[Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
+Added a following the excellant [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
 [Mellow SB2040](https://github.com/Mellow-3D/Fly-SB2040)
 
