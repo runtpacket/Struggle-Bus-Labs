@@ -111,10 +111,10 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Clicky Clacky Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
 
-[jst hub for the filter]https://www.printables.com/model/512527-jst-hub-for-the-filter
+[jst hub for the filter](https://www.printables.com/model/512527-jst-hub-for-the-filter)
 
 ## Tools I like
-[GT2 Belt Tensioner]https://github.com/Diyshift/3D-Printer/blob/main/GT2%20Belt%20Tension%20Meter/Manual/GT2_Tensiometer_Manual.pdf
+[GT2 Belt Tensioner](https://github.com/Diyshift/3D-Printer/blob/main/GT2%20Belt%20Tension%20Meter/Manual/GT2_Tensiometer_Manual.pdf)
 
 
 
