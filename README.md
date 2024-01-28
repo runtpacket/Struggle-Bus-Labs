@@ -53,9 +53,9 @@ Then I upgrades did R2 updates
 
 # Umbilical
 
-[PG7 CW2]([https://www.printables.com/model/527499-voron-v24-pg7-umbilical-y-endstop-relocation-with-](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount))
+[PG7 CW2](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount))
 
-[Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical)
+[Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation))
 
 [Z Chain relocation](https://www.printables.com/model/279739-voron-can-bus-z-chain-move)
 
