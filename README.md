@@ -88,8 +88,8 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Replacing SB2040 V1 with SB2040 V2](https://github.com/Mellow-3D/Fly-SB2040/tree/main/V2/Hardware)
 
-[Exhaust to Basement Window]
+[Exhaust to Basement Window](TBD)
 
-[Reusing old mng9 / mgn12 rails as backers]
+[Reusing old mng9 / mgn12 rails as backers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
 
 
