@@ -1,8 +1,6 @@
 # Remote Colling using a Resmed CPAP Fan 
 
 ## Requires: 
-[RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
-
 ![RESMED CPAP Fan](RESMED_Fan.jpg)
 
 [Fan speed controller on amazon](https://www.amazon.com/dp/B087M3GVYX?ref=ppx_yo2ov_dt_b_product_details&th=1)
@@ -10,9 +8,10 @@
 ![RioRand 300W 5-50V PWM DC Brushless Electric Motor Speed Controller with Hall-Less](FSC.jpg)
 
 # Optional
-[BME280 Temp/Pressure/Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-![BME280 Temp/Pressure/Humidity Sensor](BME280.jpg)
+[BME280 Temp Pressure Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+![BME280 Temp Pressure Humidity Sensor](BME280.jpg)
 
 ## Klipper configuration. Add this to your printer.cfg
 ```
