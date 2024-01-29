@@ -153,7 +153,7 @@ QTY  Description
 
 4    WinSinn 5015 24v
 
-1    Voron V2.4r1 359mm Panel Set (formbot)
+1    [Voron V2.4r1 359mm Polycarbonate. from formbot kit](https://kb-3d.com/store/frame-enclosure/546-7469-acm-or-pc-panel-set-for-voron-v24-multiple-sizes.html#/270-buildsizevrn-350mm/880-materialtype-polycarbonate)
 
 1    Dragon Standard
 
