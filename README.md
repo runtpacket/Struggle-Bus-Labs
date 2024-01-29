@@ -121,6 +121,8 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 ## Spare Parts
 QTY  Description
 
+1    [MKS Canable Pro](https://www.aliexpress.us/item/3256803818737314.html?gatewayAdapt=glo2usa4itemAdapt)
+
 2    [Mellow Fly SB2040 V2](https://kb-3d.com/store/controllers-displays-drivers/793-mellow-fly-sb2040-v2-can-toolhead-pcb-for-voron-stealthburner-1674910664639.html)
 
 1    [BTT EBB42](https://biqu.equipment/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665182306)
@@ -170,6 +172,14 @@ QTY  Description
 1    [Rainbow Barf PCB](https://lab4450.com/product/rainbow-barf-led/)
 
 1    [Mellow NeoPixel RGBW Mini Button PCB Leds For Voron 2.4](https://www.aliexpress.us/item/3256804426894084.html?spm=a2g0o.order_list.order_list_main.54.1b921802dUkdyp&gatewayAdapt=glo2usa)
+
+1    [Raspberry PI 3b](https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8)
+
+1    [Voron ADXL345 Accelerometer Kit](https://www.etsy.com/listing/1187543541/voron-adxl345-accelerometer-kit?ref=yr_purchases&variation0=2512395495)
+
+1    [LINNEO OPTO TAP 1.0](https://kb-3d.com/store/printer-specific-pcbs/737-linneo-opto-tap-pcb-v241-complete-524v.html)
+
+
 
 
 
