@@ -155,7 +155,7 @@ QTY  Description
 
 1    [Voron V2.4r1 359mm Polycarbonate. from formbot kit](https://kb-3d.com/store/frame-enclosure/546-7469-acm-or-pc-panel-set-for-voron-v24-multiple-sizes.html#/270-buildsizevrn-350mm/880-materialtype-polycarbonate)
 
-1    Dragon Standard
+1    [Dragon Standard](https://cn.phaetus.com/dragon-hotend-st/)
 
 1    Steppers Online 17HS08-1004S Nema 17 Bipolar Stepper Motor 1.8deg 16Ncm(22.66oz.in) 1A Extruder Motor 42x42x20mm 4 Wires
 
