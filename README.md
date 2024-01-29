@@ -161,7 +161,7 @@ QTY  Description
 
 1    Magnetic Bed Sticker 350mm
 
-1    Voron AfterBurner complete Stepper and Dragon Standard
+1    [Voron AfterBurner complete Stepper and Dragon Standard](https://github.com/VoronDesign/Voron-Afterburner)
 
 1    [Unklicky Full Kit - by Dustinspeed](https://dfh.fm/collections/voron/products/unklicky-full-kit-by-dustinspeed)
 
