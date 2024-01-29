@@ -157,9 +157,9 @@ QTY  Description
 
 1    [Dragon Standard](https://cn.phaetus.com/dragon-hotend-st/)
 
-1    Steppers Online 17HS08-1004S Nema 17 Bipolar Stepper Motor 1.8deg 16Ncm(22.66oz.in) 1A Extruder Motor 42x42x20mm 4 Wires
+1    [Steppers Online 17HS08-1004S Nema 17 Bipolar Stepper Motor 1.8deg 16Ncm(22.66oz.in) 1A Extruder Motor 42x42x20mm 4 Wires](https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-16ncm-22-6oz-in-1a-3-7v-42x42x20mm-4-wires-17hs08-1004s)
 
-1    Magnetic Bed Sticker 350mm
+1    [Magnetic Bed Sticker 350mm](https://www.aliexpress.com/i/3256804945332621.html?gatewayAdapt=4itemAdapt)
 
 1    [Voron AfterBurner complete Stepper and Dragon Standard](https://github.com/VoronDesign/Voron-Afterburner)
 
