@@ -120,6 +120,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 ## Spare Parts
 QTY  Description
+
 2    Mellow Fly SB2040 V2
 
 1    BTT EBB42
