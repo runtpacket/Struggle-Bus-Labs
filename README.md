@@ -121,19 +121,19 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 ## Spare Parts
 QTY  Description
 
-2    Mellow Fly SB2040 V2
+2    [Mellow Fly SB2040 V2](https://kb-3d.com/store/controllers-displays-drivers/793-mellow-fly-sb2040-v2-can-toolhead-pcb-for-voron-stealthburner-1674910664639.html)
 
-1    BTT EBB42
+1    [BTT EBB42](https://biqu.equipment/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665182306)
 
 1    Formbot rail vivedino Linear Rail MGN9H 400mm
 
 1    Amazon Generic Linear Rail MGN12H 400mm (in use as backer, Bearing block on printed rail, bagged in storage box A)
 
-2    GT2 Open Belt LL-2GT-9 (9mm wide) - 1200mm
+2    [GT2 Open Belt LL-2GT-9 (9mm wide) - 1200mm](https://west3d.com/products/gates-gt2-open-belt-ll-2gt-9-9mm-wide-voron-v0-v1-v2-switchwire)
 
-2    GT2 Open Belt LL-2GT-6 (6mm wide) - 2000mm
+2    [GT2 Open Belt LL-2GT-6 (6mm wide) - 2000mm](https://west3d.com/products/gates-gt2-open-belt-ll-2gt-6-6mm-wide-voron-v0-v1-v2-switchwire)
 
-1    BMG Extruder Components Kit
+1    [BMG Extruder Components Kit](https://dfh.fm/products/extruder-full-kit)
 
 4    F695 Bearing
 
@@ -141,15 +141,15 @@ QTY  Description
 
 15+  Omron D2F-01L Micro Switch
 
-1    BAT85 Diode
+1    [BAT85 Diode](https://kb-3d.com/store/electronics/169-vishay-bat85-schottky-diode-1634505566335.html)
 
-2    GDSTime 25X25X7 5v Fan
+2    [GDSTime 25X25X7 5v Fan](https://www.amazon.com/GDSTIME-Pack-25mm-Fan-25x25x7mm/dp/B08D8VNLHD)
 
-2    WinSinn 3010 24v
+2    [WinSinn 3010 24v](https://www.amazon.com/WINSINN-Blower-Bearing-30x10mm-Turbine/dp/B08MKLDGQR?th=1)
 
-2    WinSinn 4010 24v
+2    [WinSinn 4010 24v](https://www.amazon.com/WINSINN-Ender-Upgrade-Bearing-CR-10S/dp/B07DB5H6K1?th=1)
 
-1    RDK Cooler 4010 24v
+1    [RDK Cooler 4010 24v](https://www.amazon.com/Brushless-UCEC-40x40x10MM-Humidifier-Applicances/dp/B07DKXWYVM?th=1)
 
 4    [WinSinn 5015 24v](https://www.amazon.com/WINSINN-Cooling-50x50x15mm-Extruder-Makerbot/dp/B079BPS9Q8)
 
