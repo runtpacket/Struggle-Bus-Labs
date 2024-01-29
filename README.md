@@ -167,6 +167,11 @@ QTY  Description
 
 1   [Sexbolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)
 
+1    [Rainbow Barf PCB](https://lab4450.com/product/rainbow-barf-led/)
+
+1    [Mellow NeoPixel RGBW Mini Button PCB Leds For Voron 2.4](https://www.aliexpress.us/item/3256804426894084.html?spm=a2g0o.order_list.order_list_main.54.1b921802dUkdyp&gatewayAdapt=glo2usa)
+
+
 
 
 
