@@ -121,16 +121,27 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 ## Spare Parts
 QTY  Description
 2    Mellow Fly SB2040 V2
+
 1    BTT EBB42
+
 1    Formbot rail vivedino Linear Rail MGN9H 400mm
+
 1    Amazon Generic Linear Rail MGN12H 400mm (in use as backer, Bearing block on printed rail, bagged in storage box A)
+
 2    GT2 Open Belt LL-2GT-9 (9mm wide) - 1200mm
+
 2    GT2 Open Belt LL-2GT-6 (6mm wide) - 2000mm
+
 1    BMG Extruder Components Kit
+
 4    F695 Bearing
+
 4    625 Bearing
+
 15+  Omron D2F-01L Micro Switch
+
 1    BAT85 Diode
+
 
 
 
