@@ -143,6 +143,30 @@ QTY  Description
 
 1    BAT85 Diode
 
+2    GDSTime 25X25X7 5v Fan
+
+2    WinSinn 3010 24v
+
+2    WinSinn 4010 24v
+
+1    RDK Cooler 4010 24v
+
+4    WinSinn 5015 24v
+
+1    Voron V2.4r1 359mm Panel Set (formbot)
+
+1    Dragon Standard
+
+1    Steppers Online 17HS08-1004S Nema 17 Bipolar Stepper Motor 1.8deg 16Ncm(22.66oz.in) 1A Extruder Motor 42x42x20mm 4 Wires
+
+1    Magnetic Bed Sticker 350mm
+
+1    Voron AfterBurner complete Stepper and Dragon Standard
+
+1    [Unklicky Full Kit - by Dustinspeed](https://dfh.fm/collections/voron/products/unklicky-full-kit-by-dustinspeed)
+
+
+
 
 
 
