@@ -9,6 +9,8 @@ Come along and ride on a fantastic voyage and often struggle with my Voron 2.4 3
 My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer was my escape from my upcoming surgery. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Sadly, it’s taken me a long time to get close to where I was cognitively. They call it [pumphead]( https://www.scientificamerican.com/article/pumphead-heart-lung-machine/). Just like with my sternum. Everyday my brain gets stronger too. 
 
 
+## My Build
+
 Formbot Voron 2.4R1 350mm Kit.
 Dragon Std hot End
 Quality rails on x and y
@@ -117,7 +119,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Hexagon skirt inserts by Tom van der Geest](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
-# Coming Soon
+## Coming Soon
 
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
 
@@ -133,7 +135,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Reusing old mng9 / mgn12 rails as backers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
 
-# Changes I am considering 
+## Changes I am considering 
 
 [The Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
 
@@ -147,6 +149,24 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 ## Tools I like
 [GT2 Belt Tensioner](https://github.com/Diyshift/3D-Printer/blob/main/GT2%20Belt%20Tension%20Meter/Manual/GT2_Tensiometer_Manual.pdf)
+
+## Self inflicted wounds
+
+Chaotic labs Tap v1. Over tightended the belt holder screw. I wasn't trying. buut the aluminum didnt care.
+
+RelaBot amazon el cheapo Rail. ummm did I forget to lube that rail. Yup! Was pritning like a dream, then layshoft and it sounds Crunchy!
+
+vivedino mgn8 400mm damn thos ebearing are small and all over the floor. Oh wtf they have greese ports. 
+
+## Build Plates Wall o Shame
+
+What can I say. Let me build a klicky probe and make art. Here are a couple of master pieces.
+
+Plate 1
+
+Plate 2
+
+Carnage not pictured. more than a few switches that were klicky probes. they squish hard.
 
 ## Spare Parts
 QTY  Description
@@ -211,23 +231,7 @@ QTY  Description
 
 1    SteathBurner with dragon/cw2 - hot standby
 
-## Self inflicted wounds
 
-Chaotic labs Tap v1. Over tightended the belt holder screw. I wasn't trying. buut the aluminum didnt care.
-
-RelaBot amazon el cheapo Rail. ummm did I forget to lube that rail. Yup! Was pritning like a dream, then layshoft and it sounds Crunchy!
-
-vivedino mgn8 400mm damn thos ebearing are small and all over the floor. Oh wtf they have greese ports. 
-
-## Build Plates Wall o Shame
-
-What can I say. Let me build a klicky probe and make art. Here are a couple of master pieces.
-
-Plate 1
-
-Plate 2
-
-Carnage not pictured. more than a few switches that were klicky probes. they squish hard.
 
 
 
