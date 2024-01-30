@@ -4,9 +4,9 @@ Welcome to Struggle Bus Labs.
 
 ![Struggle Bus Labs](SBL.jpg)
 
-Come along and ride on a fantastic voyage and often struggle with my Voron 2.4 350mm 3D Printer. 
+Come along and ride on a fantastic voyage with my Voron 2.4 350mm 3D Printer, I have named the Struggle Bus!
 
-My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer was my escape from my upcoming surgery. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Sadly, it’s taken me a long time to get close to where I was cognitively, I'm still dealing with a bit of [pumphead]( https://www.scientificamerican.com/article/pumphead-heart-lung-machine/). My heart is doing well. I'm doing well and just like with my sternum. Everyday my brain gets stronger too. 
+My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my Dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer build quickly became my escape. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Sadly, it’s taken me a long time to get close to where I was cognitively, I'm still dealing with a bit of [pumphead]( https://www.scientificamerican.com/article/pumphead-heart-lung-machine/). My heart is doing well. I'm doing well and just like with my sternum. Everyday my brain gets stronger too. 
 
 ## My Build
 
