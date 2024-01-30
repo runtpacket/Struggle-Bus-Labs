@@ -15,7 +15,9 @@ Come along and ride on a fantastic voyage
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
-Color's frame black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyal flat cap (blue and black) as rail fillers/cable covers.
+Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyal flat cap (blue and black) as rail fillers/cable covers.
+
+X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's.
 
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
@@ -56,6 +58,8 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 # Probe
 
 [Chaotic Labs Tap v1](https://github.com/Chaoticlab/CNC-Tap-for-Voron)
+
+During gantry rail upgrade I hulked a screw on the belt holder. sometimes I dont know my own strength. Ordered the v2 only to discover it is incompatable with the MMellow Fly Canbus board. So I cancedl and ordered a v1. Need to go through parts I may have a printed tap and all the bits and pieces. 
 
 # CanBUS
 
