@@ -182,6 +182,9 @@ QTY  Description
 
 1    [LINNEO OPTO TAP 1.0](https://kb-3d.com/store/printer-specific-pcbs/737-linneo-opto-tap-pcb-v241-complete-524v.html)
 
+1    [SteathBurner with dragon/cw2](hotstandby)
+
+
 
 
 
