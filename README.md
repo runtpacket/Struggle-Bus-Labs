@@ -78,7 +78,7 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
 [Chaotic Labs Tap v1](https://github.com/Chaoticlab/CNC-Tap-for-Voron)
 
-During gantry rail upgrade I hulked a screw on the belt holder. sometimes I dont know my own strength. Ordered the v2 only to discover it is incompatable with the MMellow Fly Canbus board. So I cancedl and ordered a v1. Need to go through parts I may have a printed tap and all the bits and pieces. 
+1/29/2024 - During gantry rail upgrade I hulked a screw on the belt holder. sometimes I dont know my own strength. Ordered the v2 only to discover it is incompatable with the MMellow Fly Canbus board. So I cancedl and ordered a v1. Need to go through parts I may have a printed tap and all the bits and pieces. 
 
 # CanBUS
 
