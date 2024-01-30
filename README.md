@@ -23,7 +23,7 @@ X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's. Lubed th
 
 [Printed Solid ACM Panel Kit](https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material)
 
-Have not touched the stonk PC Panels. Might use them in the future for another build.
+Have not touched the stock PC Panels. Might use them in the future for another build.
 
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
