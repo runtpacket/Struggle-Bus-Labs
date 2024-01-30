@@ -65,6 +65,9 @@ Color's frame black. Primary printed parts color is black with KVP Galaxy Blue a
 
 [Mellow SB2040v1](https://github.com/Mellow-3D/Fly-SB2040)
 
+The Mellow Fly SB2040 v1 and v2 are incompatable with the Chaotics Labs CNC Tap V2. 
+
+
 # Umbilical
 
 I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable inside 1/8" Sleeving. So far I find the PTFE to be perfect. 
