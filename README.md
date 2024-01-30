@@ -21,6 +21,7 @@ X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's. Lubed th
 
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
+[BTT LCD12864 Github](https://github.com/bigtreetech/MINI-12864)
 
 # Webcam
 
