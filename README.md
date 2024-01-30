@@ -10,7 +10,7 @@ My Struggle Bus journey started on my 35th Anniversary, my wife was very generou
 
 ## My Build
 
-Formbot Voron 2.4R1 350mm Kit.
+{Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
 Dragon Std hot End, I print alot of PLA. 
 
@@ -19,8 +19,6 @@ Quality rails on x and y
 old mgn9's and mgn 12 will be as backer rod's to mitigate thermal expansion. 
 
 Planning to use CPAP Fan for remote cooling with a 2.4 Top hat with rear umbilical
-
-[Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
