@@ -36,6 +36,8 @@ Color's frame black. Primary printed parts color is black with KVP Galaxy Blue a
 
 [BTT Smart Filament Sensor](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0)
 
+Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
+
 # Klipper add ons
 
 [Jontek2 better Print Start](https://github.com/jontek2/A-better-print_start-macro)
@@ -64,6 +66,8 @@ Color's frame black. Primary printed parts color is black with KVP Galaxy Blue a
 [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
 [Mellow SB2040v1](https://github.com/Mellow-3D/Fly-SB2040)
+
+Mellow Fly SB2040 V2 released the magic smoke. I had just started a print and watched the printer start to home when I saw the smoke. Opened up the stealth burner to find a capacitor was missing. It looked to be cold soldered. This led to a mofsit spewing it's guts. Fast replacement thanks to KB3D.
 
 The Mellow Fly SB2040 v1 and v2 are incompatable with the Chaotics Labs CNC Tap V2. 
 
@@ -182,7 +186,7 @@ QTY  Description
 
 1    [LINNEO OPTO TAP 1.0](https://kb-3d.com/store/printer-specific-pcbs/737-linneo-opto-tap-pcb-v241-complete-524v.html)
 
-1    [SteathBurner with dragon/cw2](hotstandby)
+1    SteathBurner with dragon/cw2 - hot standby
 
 
 
