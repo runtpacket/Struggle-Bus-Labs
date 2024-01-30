@@ -9,17 +9,17 @@ Slide, slide, slippity-slide
 I'm hittin' switches on the block in a '65
 Come along and ride on a fantastic voyage
 
-# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Currently I am upgrading to West3D Beserker rails on x and y. using my old rails as backers, CPAP Fan with a 2.4 Tophat and going rear umbilical. 
+# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Currently I am upgrading to West3D Berserker rails on x and y. using my old rails as backers, CPAP Fan with a 2.4 Top hat and going rear umbilical. 
 
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
 [Voron R2 Updates](https://github.com/VoronDesign/Voron-2/releases)
 
-Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyal flat cap (blue and black) as rail fillers/cable covers.
+Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyl flat cap (blue and black) as rail fillers/cable covers.
 
-X and Y upgraded to West 3d Bererker's. [X rail](https://west3d.com/products/berserker-mgn12h-1r-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506758025428) and [y Rails](https://west3d.com/products/berserker-mgn9h-1r-150-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506738856148)
+X and Y upgraded to West 3d Berserker’s. [X rail](https://west3d.com/products/berserker-mgn12h-1r-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506758025428) and [y Rails](https://west3d.com/products/berserker-mgn9h-1r-150-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506738856148)
 
-Z rails are formbot vivedino's. The Berserker's were nice and clean when they arrived. I cleaned with ISO and lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maitenance. 
+Z rails are Formbot vivedino's. The Berserker's were nice and clean when they arrived. I cleaned with ISO and lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maintenance. 
 
 # Panel's
 
@@ -30,7 +30,7 @@ Have not touched the stock PC Panels. Might use them in the future for another b
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
-[BTT LCD12864 Github](https://github.com/bigtreetech/MINI-12864)
+[BTT LCD12864 GitHub](https://github.com/bigtreetech/MINI-12864)
 
 Stock Display panel didn't stay in down position and felt floppy.  very happy with this design. 
 
