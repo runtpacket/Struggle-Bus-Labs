@@ -10,7 +10,7 @@ My Struggle Bus journey started on my 35th Anniversary, my wife was very generou
 
 ## My Build
 
-{Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
+[Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
 Dragon Std hot End, I print alot of PLA. 
 
