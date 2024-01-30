@@ -87,7 +87,7 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
 [Esotericals canbus guide](https://github.com/Esoterical/voron_canbus)
 
-[BIGTREETECH U2C V2.1]()
+[BIGTREETECH U2C V2.1](https://github.com/bigtreetech/U2C)
 
 [Mellow Fly SB2040 v1 KB3D Guide](https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040)
 
