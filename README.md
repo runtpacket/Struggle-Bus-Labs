@@ -9,7 +9,7 @@ Slide, slide, slippity-slide
 I'm hittin' switches on the block in a '65
 Come along and ride on a fantastic voyage
 
-# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Currently I am upgrading to West3D Berserker rails on x and y. using my old rails as backers, CPAP Fan with a 2.4 Top hat and going rear umbilical. 
+# I started my Voron journey with a Formbot Voron 2.4R1 350mm Kit. Dragon Std hot End, Quaility rails on x and y. old mgn9's and mgn 12 will be as backer rod's to mitigate thermal expansion. Planning to use CPAP Fan for remote cooling with a 2.4 Top hat with rear umbilical. 
 
 [Voron 2.4r1 350mm](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
