@@ -17,7 +17,7 @@ Come along and ride on a fantastic voyage
 
 Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polymaker blue accents. I am using vinyal flat cap (blue and black) as rail fillers/cable covers.
 
-X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's.
+X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's. Lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maitenance. 
 
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
@@ -49,6 +49,7 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 [LED effects](https://github.com/julianschill/klipper-led_effect)
 
 # Fans
+
 [Nevermore v5 Duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo)
 
 [Resmed CPAP Fan mod by OverLord6920](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/CPAP%20FAN)
