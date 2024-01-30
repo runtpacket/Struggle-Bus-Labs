@@ -36,6 +36,8 @@ Stock Display panel didn't stay in down position and felt floppy.  very happy wi
 
 [Wansview 1080P web cam](https://github.com/runtpacket/Struggle-Bus-Labs/tree/main/Mods/WebCAM/wansview-1080p-camera-mount-model_files)
 
+Pretty impressed with this $9 amazon special. Made me recall how crazy web cam prices got during covid. It would have been a $250 camera then. Lol
+
 # Lighting
 
 [2x270mm Disco on stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
