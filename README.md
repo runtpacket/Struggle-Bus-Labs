@@ -12,7 +12,7 @@ My Struggle Bus journey started on my 35th Anniversary, my wife was very generou
 
 [Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
-Dragon Std hot End, I print alot of PLA. 
+Dragon Std hot End, I print a lot of PLA. 
 
 Quality rails on x and y
 
@@ -61,7 +61,7 @@ Pretty impressed with this $9 amazon special. Made me recall how crazy web cam p
 
 Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
-# Klipper add ons
+# Klipper add-ons
 
 [Jontek2 better Print Start](https://github.com/jontek2/A-better-print_start-macro)
 
@@ -81,7 +81,7 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
 [Chaotic Labs Tap v1](https://github.com/Chaoticlab/CNC-Tap-for-Voron)
 
-1/29/2024 - During gantry rail upgrade I hulked a screw on the belt holder. sometimes I dont know my own strength. Special not CL v2 is incompatable with the Mellow Fly Canbus board. Need to go through parts I may have a printed tap and all the bits and pieces needed to get back to printing. 
+1/29/2024 - During gantry rail upgrade I hulked a screw on the belt holder. sometimes I don’t know my own strength. Special not CL v2 is incompatible with the Mellow Fly Canbus board. Need to go through parts I may have a printed tap and all the bits and pieces needed to get back to printing. 
 
 # CanBUS
 
@@ -95,7 +95,7 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
 Mellow Fly SB2040 V2 released the magic smoke. I had just started a print and watched the printer start to home when I saw the smoke. Opened up the stealth burner to find a capacitor was missing. It looked to be cold soldered. This led to a mofsit spewing it's guts. Fast replacement thanks to KB3D.
 
-The Mellow Fly SB2040 v1 and v2 are incompatable with the Chaotics Labs CNC Tap V2. 
+The Mellow Fly SB2040 v1 and v2 are incompatible with the Chaotics Labs CNC Tap V2. 
 
 
 # Umbilical
@@ -153,11 +153,11 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 ## Self inflicted wounds
 
-Chaotic labs Tap v1. Over tightended the belt holder screw. I wasn't trying. buut the aluminum didnt care.
+Chaotic labs Tap v1. Over tightened the belt holder screw. I wasn't trying. but the aluminum didn’t care.
 
-RelaBot amazon el cheapo Rail. ummm did I forget to lube that rail. Yup! Was pritning like a dream, then layshoft and it sounds Crunchy!
+RelaBot amazon el cheapo Rail. ummm did I forget to lube that rail. Yup! Was printing like a dream, then layer shift and it sounds Crunchy!
 
-vivedino mgn8 400mm damn thos ebearing are small and all over the floor. Oh wtf they have greese ports. 
+vivedino mgn8 400mm damn those bearing are small and all over the floor. Oh wtf they have grease ports. 
 
 ## Build Plates Wall o Shame
 
