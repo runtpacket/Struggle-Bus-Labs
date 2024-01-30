@@ -207,7 +207,23 @@ QTY  Description
 
 1    SteathBurner with dragon/cw2 - hot standby
 
+## Self inflicted wounds
 
+Chaotic labs Tap v1. Over tightended the belt holder screw. I wasn't trying. buut the aluminum didnt care.
+
+RelaBot amazon el cheapo Rail. ummm did I forget to lube that rail. Yup! Was pritning like a dream, then layshoft and it sounds Crunchy!
+
+vivedino mgn8 400mm damn thos ebearing are small and all over the floor. Oh wtf they have greese ports. 
+
+## Build Plates Wall o Shame
+
+What can I say. Let me build a klicky probe and make art. Here are a couple of master pieces.
+
+Plate 1
+
+Plate 2
+
+Carnage not pictured. more than a few switches that were klicky probes. they squish hard.
 
 
 
