@@ -19,7 +19,7 @@ Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polym
 
 X and Y upgraded to West 3d Bererker's. [X rail](https://west3d.com/products/berserker-mgn12h-1r-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506758025428) and [y Rails](https://west3d.com/products/berserker-mgn9h-1r-150-300-350-400-linear-rails-viking-skis-with-carriages?variant=43506738856148)
 
-Z rails are formbot vivedino's. Lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maitenance. 
+Z rails are formbot vivedino's. The Berserker's were nice and clean when they arrived. I cleaned with ISO and lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maitenance. 
 
 # Panel's
 
