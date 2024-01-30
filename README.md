@@ -19,6 +19,12 @@ Frame Black. Primary printed parts color is black with KVP Galaxy Blue and Polym
 
 X and Y upgraded to West 3d Bererker's. Z rails are formbot vivedino's. Lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maitenance. 
 
+# Panel's
+
+[Printed Solid ACM Panel Kit](https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material)
+
+Have not touched the stonk PC Panels. Might use them in the future for another build.
+
 # Printer Display 
 [BTT LCD12864](https://www.printables.com/model/351939-voron-24-lcd-display-mod)
 
