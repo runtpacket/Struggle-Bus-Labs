@@ -164,8 +164,10 @@ vivedino mgn8 400mm damn those bearing are small and all over the floor. Oh wtf 
 What can I say. Let me build a klicky probe and make art. Here are a couple of master pieces.
 
 Plate 1
+![Struggle Bus Labs](plate1.jpg)
 
 Plate 2
+![Struggle Bus Labs](plate2.jpg)
 
 Carnage not pictured. more than a few switches that were klicky probes. they squish hard.
 
