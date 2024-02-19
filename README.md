@@ -235,6 +235,8 @@ QTY  Description
 1    SteathBurner with dragon/cw2 - hot standby
 
 
+Items I used when Building My Voron
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/samwiseg0/corner_cable_hide/STLs
 
 
 
