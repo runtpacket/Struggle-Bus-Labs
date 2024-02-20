@@ -6,7 +6,7 @@ Welcome to Struggle Bus Labs.
 
 Come along and ride on a fantastic voyage with my Voron 2.4 350mm 3D Printer, I have named the Struggle Bus!
 
-My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my Dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer build quickly became my escape. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Sadly, it’s taken me a long time to get close to where I was cognitively, I'm still dealing with a bit of [pumphead]( https://www.scientificamerican.com/article/pumphead-heart-lung-machine/). My heart is doing well. I'm doing well and just like with my sternum. Everyday my brain gets stronger too. 
+My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my Dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer build quickly became my escape. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Doing well every day is better. 
 
 ## My Build
 
@@ -83,6 +83,8 @@ Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
 
 1/29/2024 - During gantry rail upgrade I hulked a screw on the belt holder. sometimes I don’t know my own strength. Special not CL v2 is incompatible with the Mellow Fly Canbus board. Need to go through parts I may have a printed tap and all the bits and pieces needed to get back to printing. 
 
+2/19/204 - Ended up with a work around in place. I put a dab of super glue on the screw threads. it's working fine and I got a decent belt tune according to kippain-Shake and tune. Printed like a dream for a week and then it looked like wavy lines and under extrustion. found toolhead had a wobble. tore down to tap and foudn 1 screw loose. put blue thread locker on and tighened. 1 week later same issue. I hate tearing down to Tap. everytime I do i end up crimpin cables or havingt o buy something I borked. tonight I had to swap the hotend out. I think the dragon end I had on (reminder for self CHT nozzle) has a bad thermistor as I was getting Heater extruder not heating at expected rate. pid tune calibration didn't help (reminder to self fans on). items borked: X endstop wire broke at switch leg. So I went sensorless homing as it was on my todo list. I only installed endstop with canbus becuase I was already running cables. (remind one day remove the endstops and wiring and relocation pieces). hardest part was following directions. could not understand the one section on driver tuning. got help on discord. worked though those issues. tried to make a spare TAP wire. As i have broken them twice now. no success need to check wiring when my eyes are better. So far I like sensorless homing. even if the homing speed is SLOW. it's less wires for me to break. Oy yeah remider to self. SB FAN board is not screwed in. If you screw it in it doesn't work. get some button head 10mm I think the socket heads are too tall and stop it from fully seating. Also the 
+
 # CanBUS
 
 [Esotericals canbus guide](https://github.com/Esoterical/voron_canbus)
@@ -97,12 +99,13 @@ Mellow Fly SB2040 V2 released the magic smoke. I had just started a print and wa
 
 The Mellow Fly SB2040 v1 and v2 are incompatible with the Chaotics Labs CNC Tap V2. 
 
+IF you use any SB toolhead board thats 2 piece you NEED this! (you can kill the boards if you misalign, this saves you from yourself) https://www.printables.com/model/642001-voron-stealthburner-sb2209-misalignment-protector
 
 # Umbilical
 
 I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable inside 1/8" Sleeving. So far I find the PTFE to be perfect. 
 
-[PG7 CW2](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount)
+[No Longer use - A Drive pg7 Mount](https://www.printables.com/model/312008-voron-24-a-drive-pg7-umbilical-mount)
 
 [Minsekt Y Endstop relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical/Y_Endstop_Relocation)
 
@@ -144,6 +147,7 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Clicky Clacky Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
 
+[The Filter]([https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door](https://www.printables.com/model/334276-the-filter-for-voron-24))
 [jst hub for the filter](https://www.printables.com/model/512527-jst-hub-for-the-filter)
 
 [Wago and jst bed mount 2020](https://www.printables.com/model/512516-wago-and-jst-bed-mount-for-2020)
