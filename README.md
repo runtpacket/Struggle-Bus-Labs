@@ -97,7 +97,7 @@ IMPORTANT! If you use a SB 2 Piece toolboard. You this https://www.printables.co
 
 [Mellow SB2040v1](https://github.com/Mellow-3D/Fly-SB2040)
 
-Mellow Fly SB2040 V2 released the magic smoke. I had just started a print and watched the printer start to home when I saw the smoke. Opened up the stealth burner to find a capacitor was missing. It looked to be cold soldered. This led to a mofsit spewing it's guts. Fast replacement thanks to KB3D.
+Mellow Fly SB2040 V2 released the magic smoke. I had just started a print and watched the printer start to home when I saw the smoke. Opened up the stealth burner to find a capacitor was missing. It looked to be cold soldered. This led to a mosfit spewing it's guts. Fast replacement thanks to KB3D.
 
 The Mellow Fly SB2040 v1 and v2 are incompatible with the Chaotics Labs CNC Tap V2. 
 
