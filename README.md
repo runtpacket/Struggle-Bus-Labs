@@ -28,6 +28,13 @@ X and Y upgraded to West 3d Berserker’s. [X rail](https://west3d.com/products/
 
 Z rails are Formbot vivedino's. The Berserker's were nice and clean when they arrived. I cleaned with ISO and lubed the rails with EP2. So far I have used 1/4 of the syringe. Lots left for maintenance. 
 
+# Door Hinges
+[Snap Latch removeable hinges ](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-)
+
+Finding the right hinges was a journey on the stuggle bus. A fun strugle as I had to try 5-6 hingle mods to get to a happy spot. I only like the snapping latches on the doors, for the panel I use magnetic panels clubs and love them. My only issue is I sometimes forget about them and pull the panel off. So I have to hunt the floor for the clips. 
+
+
+
 # Panel's
 
 [Printed Solid ACM Panel Kit](https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material)
