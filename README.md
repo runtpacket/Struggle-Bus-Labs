@@ -31,7 +31,7 @@ Z rails are Formbot vivedino's. The Berserker's were nice and clean when they ar
 # Door Hinges
 [Snap Latch removeable hinges ](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-)
 
-Finding the right hinges was a journey on the stuggle bus. A fun strugle as I had to try 5-6 hingle mods to get to a happy spot. I only like the snapping latches on the doors, for the panel I use magnetic panels clubs and love them. My only issue is I sometimes forget about them and pull the panel off. So I have to hunt the floor for the clips. 
+Finding the right hinges was a journey on the stuggle bus. A fun struggle as I had to try 5-6 hingle mods to get to a happy spot. I only like the snapping latches on the doors, for the panel I use magnetic panels clips and love them. My only issue is I sometimes forget about them and pull the panel off. So I have to hunt the floor for the clips. 
 
 
 
