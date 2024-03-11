@@ -9,6 +9,10 @@ Come along and ride on a fantastic voyage with my Voron 2.4 350mm 3D Printer, I 
 My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my Dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer build quickly became my escape. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Doing well every day is better. 
 
 ## My Build
+Hoping to add the following to my machine this week
+https://github.com/Thomas-3D/Front_Decontaminator
+and an ERCF V2 with Happyhare in the future
+https://github.com/moggieuk/Happy-Hare
 
 [Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
