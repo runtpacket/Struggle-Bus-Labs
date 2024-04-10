@@ -13,6 +13,8 @@ This will need some tape to seal air leaks. i used 1mm foam and the base needs g
 
 [BME280 Temp Pressure Humidity Sensor](https://www.amazon.com/dp/B01N47LZ4P?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
+I am considering chaning this out to the BME680 so that I can monitor in chamber VOC.
+
 ![BME280 Temp Pressure Humidity Sensor](BME280.jpg)
 
 ## Klipper configuration. Add this to your printer.cfg
