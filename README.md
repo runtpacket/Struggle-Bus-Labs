@@ -37,7 +37,13 @@ Z rails are Formbot vivedino's. The Berserker's were nice and clean when they ar
 
 Finding the right hinges was a journey on the stuggle bus. A fun struggle as I had to try 5-6 hingle mods to get to a happy spot. I only like the snapping latches on the doors, for the panel I use magnetic panels clips and love them. My only issue is I sometimes forget about them and pull the panel off. So I have to hunt the floor for the clips. 
 
+The Snap Latch removal hinges worked ok after a while. I am now using these The Pinned lift off hinges. https://www.printables.com/model/631351-vhb-lift-off-hinges-for-voron-trident-or-24
 
+Z belt Covers are done. https://www.printables.com/model/479809-voron-24-z-belt-covers
+
+Purge Bucket and Nozzle brush With plate Stop https://www.printables.com/model/479809-voron-24-z-belt-covers
+ goes very well with https://www.printables.com/model/346782-voron-24-bed-alignment-stop-updated
+ 
 
 # Panel's
 
@@ -63,6 +69,9 @@ Pretty impressed with this $9 amazon special. Made me recall how crazy web cam p
 [2x270mm Disco on stick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
 
 [Disco Mount and Baffles](https://www.printables.com/model/315479-daylight-on-a-stick-mount)
+
+Those worked well but I needed better diffusion. Printed these in Clear PLA. Will they hold up in a heated chamber? We shall See https://www.printables.com/model/617749-daylight-on-a-stick-diffuser
+Need a couple of these to mount them https://www.printables.com/model/536772-daylight-on-a-stick-mount other places the stock daylight clip worked better. 
 
 [Rainbow Barf](https://wiki.kb-3d.com/en/home/linneo/voron/harnesses/RainbowBarfLEDHarness)
 
