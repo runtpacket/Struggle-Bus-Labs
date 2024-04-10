@@ -71,6 +71,8 @@ Pretty impressed with this $9 amazon special. Made me recall how crazy web cam p
 [BTT Smart Filament Sensor](https://github.com/bigtreetech/smart-filament-detection-module/tree/master/V1.0)
 
 Needs lubed and shimmed. Turned off as I need to troubleshoot false positives..
+got into troubleshooting. wow was fiuring it out a pita. of course once I got it working. I find the perfect how to guide. https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
+
 
 # Klipper add-ons
 
