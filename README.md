@@ -38,11 +38,6 @@ Z rails are Formbot vivedino's. The Berserker's were nice and clean when they ar
 Finding the right hinges was a journey on the stuggle bus. A fun struggle as I had to try 5-6 hingle mods to get to a happy spot. I only like the snapping latches on the doors, for the panel I use magnetic panels clips and love them. My only issue is I sometimes forget about them and pull the panel off. So I have to hunt the floor for the clips. 
 
 The Snap Latch removal hinges worked ok after a while. I am now using these The Pinned lift off hinges. https://www.printables.com/model/631351-vhb-lift-off-hinges-for-voron-trident-or-24
-
-Z belt Covers are done. https://www.printables.com/model/479809-voron-24-z-belt-covers
-
-Purge Bucket and Nozzle brush With plate Stop https://www.printables.com/model/479809-voron-24-z-belt-covers
- goes very well with https://www.printables.com/model/346782-voron-24-bed-alignment-stop-updated
  
 
 # Panel's
@@ -147,6 +142,13 @@ I built my umbilical cable using 2mm PTFE alongside the SB2040 Canbus cable insi
 
 [Hexagon skirt inserts by Tom van der Geest](https://www.printables.com/model/648945-voron-24-skirt-insert)
 
+# Misc
+
+Z belt Covers are done. https://www.printables.com/model/479809-voron-24-z-belt-covers
+
+Purge Bucket and Nozzle brush With plate Stop https://www.printables.com/model/479809-voron-24-z-belt-covers 
+goes very well with https://www.printables.com/model/346782-voron-24-bed-alignment-stop-updated
+ 
 ## Coming Soon
 
 [2.4 Tophat](https://www.printables.com/model/571759-voron-24-trident-magnetic-tophat-35mm-66mm-beta-re)
