@@ -6,7 +6,8 @@ Welcome to Struggle Bus Labs.
 
 Come along and ride on a fantastic voyage with my Voron 2.4 350mm 3D Printer, I have named the Struggle Bus!
 
-My Struggle Bus journey started on my 35th Anniversary, my wife was very generous and let me purchase my Dream 3D printer. It was also on our anniversary that we found out I would be having a quadruple bypass in a few weeks. My Printer build quickly became my escape. I set about trying to get as much as I could get done prior to surgery. it was nice to hyper focus and forget my worries. The surgery was everything you think and then some. took me a long time to get where I felt comfortable trying to work on the printer, it was at least 6 months before I even considered flipping it to work on electronics. Doing well every day is better. 
+I hope you dont expect this to be cohert or organized.  this page is mainly for me to remeber thingds about my voron. 
+
 
 ## Build Log
 
@@ -23,9 +24,7 @@ https://github.com/moggieuk/Happy-Hare
 
 [Formbot Voron 2.4R1 350mm Kit.](https://www.formbot3d.com/products/voron-24-pro-corexy-3d-printer-kit-with-hdmi-5-touch-screen?VariantsId=10486)
 
-Dragon Std hot End, I print a lot of PLA. 
-
-Quality rails on x and y
+Dragon Std hot End, I print a lot of PLA. 5/11/2024 managed to kill both dragons. 1 grub screw fubared and on the other I snapped a nozzle off. Voron community helped me out and got me parts fast. now I am using a Bambu Labs Clone hotend. 
 
 old mgn9's and mgn 12 will be as backer rod's to mitigate thermal expansion. 
 
