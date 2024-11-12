@@ -2,7 +2,7 @@
 
 Welcome to Struggle Bus Labs.
 
-![Struggle Bus Labs](SBL.jpg)
+![Struggle Bus Labs](v2.3824.png)
 
 Come along and ride on a fantastic voyage with my Voron 2.4 350mm 3D Printer, I have named the Struggle Bus!
 
