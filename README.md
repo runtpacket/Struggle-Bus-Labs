@@ -7,6 +7,8 @@ I hope you dont expect this to be cohert or organized.  this page is mainly for 
 
 
 ## Build Log
+Starting to prep for a toolhead change. Either XOl or Dragon Burner. Eitehr one will need filament cutter and runout sensor. Had an issues with end of sppol not coming of and jaming. this leaves the dub switch based fila runout in a good state. need to work on that. but next up  is https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG
+
 
 tonight I was playing with Multi Color printing. I tried all slicers each had littel quirks with thier setup for doing this. While researching I stumbled up 
 [Single Extruder Tool Changer MMU with single exrtuder](https://github.com/strayr/klipper-fake-toolchanger/blob/main/README.md)
